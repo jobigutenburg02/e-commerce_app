@@ -10,7 +10,7 @@ import CheckoutPage from "./components/checkout/CheckoutPage"
 import LoginPage from "./components/user/LoginPage"
 import ProtectedRoute from "./components/ui/ProtectedRoute"
 import { AuthProvider } from "./context/AuthContext"
-import UserProfilePage from "./components/user/userProfilePage"
+import UserProfilePage from "./components/user/UserProfilePage"
 import PaymentStatusPage from "./components/payment/PaymentStatusPage"
 
 const App = () => {
