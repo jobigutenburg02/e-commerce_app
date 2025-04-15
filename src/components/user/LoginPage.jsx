@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import "./LoginPage.css"
 import { useState } from 'react'
 import api from '../../api'
-import Error from '../ui/error'
+import Error from '../ui/Error'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { AuthContext } from '../../context/AuthContext'
 
