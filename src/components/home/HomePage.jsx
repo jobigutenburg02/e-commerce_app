@@ -3,7 +3,7 @@ import CardContainer from "./CardContainer"
 import api from "../../api"
 import { useState, useEffect } from "react"
 import PlaceHolderContainer from "../ui/PlaceHolderContainer"
-import Error from "../ui/error"
+import Error from "../ui/Error"
 import { randomValue } from "../../GenerateCartCode"
 
 const HomePage = () => {
